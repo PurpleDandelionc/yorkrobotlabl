@@ -59,6 +59,8 @@
         <module>ware19-kafka-parent</module>
         <!-- ElasticJob 调度 -->
         <module>ware20-elastic-job</module>
+        <!-- JTA 事务管理器 -->
+        <module>ware21-jta-source</module>
     </modules>
 
     <!-- 依赖版本管理 -->
