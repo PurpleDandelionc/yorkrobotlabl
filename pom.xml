@@ -61,6 +61,8 @@
         <module>ware20-elastic-job</module>
         <!-- JTA 事务管理器 -->
         <module>ware21-jta-source</module>
+        <!-- FreeMarker模板静态化 -->
+        <module>ware22-page-static</module>
     </modules>
 
     <!-- 依赖版本管理 -->
