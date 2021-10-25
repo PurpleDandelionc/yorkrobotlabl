@@ -63,6 +63,8 @@
         <module>ware21-jta-source</module>
         <!-- FreeMarker模板静态化 -->
         <module>ware22-page-static</module>
+        <!-- MinIO文件服务器 -->
+        <module>ware23-minio-file</module>
     </modules>
 
     <!-- 依赖版本管理 -->
