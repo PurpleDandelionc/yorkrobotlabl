@@ -65,6 +65,8 @@
         <module>ware22-page-static</module>
         <!-- MinIO文件服务器 -->
         <module>ware23-minio-file</module>
+        <!-- Ehcache缓存组件 -->
+        <module>ware24-eht-cache</module>
     </modules>
 
     <!-- 依赖版本管理 -->
