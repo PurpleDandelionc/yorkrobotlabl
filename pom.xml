@@ -67,6 +67,8 @@
         <module>ware23-minio-file</module>
         <!-- Ehcache缓存组件 -->
         <module>ware24-eht-cache</module>
+        <!-- 自定义日志组件 -->
+        <module>ware25-defined-log</module>
     </modules>
 
     <!-- 依赖版本管理 -->
