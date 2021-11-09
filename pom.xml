@@ -69,6 +69,8 @@
         <module>ware24-eht-cache</module>
         <!-- 自定义日志组件 -->
         <module>ware25-defined-log</module>
+        <!-- OAuth2授权模式 -->
+        <module>ware26-oauth2-parent</module>
     </modules>
 
     <!-- 依赖版本管理 -->
