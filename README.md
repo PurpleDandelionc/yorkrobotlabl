@@ -7,7 +7,7 @@
 |序号|文章标题|源码地址|
 |:---:|:---|:---|
 |01|[Boot2 整合 shard-jdbc 中间件，实现数据分库分表](https://mp.weixin.qq.com/s/XNFjOyzUfeR6zMrlvNPB8g)|[GitHub](https://github.com/cicadasmile/middle-ware-parent/tree/master/ware01-shard-jdbc)|
-|02|[Boot2 整合 JavaMail ,实现异步发送邮件功能](https://mp.weixin.qq.com/s/hadAFqK-w394K4XPWplANw)|...|
+|02|[Boot2 整合 JavaMail ,实现异步发送邮件功能](https://mp.weixin.qq.com/s/hadAFqK-w394K4XPWplANw)|[GitHub](https://github.com/cicadasmile/middle-ware-parent/tree/master/ware02-email-send)|
 |03|[Boot2 整合 RocketMQ ,实现请求异步处理](https://mp.weixin.qq.com/s/uF29K8gzv7qHYk-K2pQkpQ)|...|
 |04|[Boot2 整合 Swagger2 ,构建接口管理界面](https://mp.weixin.qq.com/s/ztmmC3bKlSfUl5Ec3qUPOQ)|...|
 |05|[Boot2 整合 QuartJob ,实现定时器实时管理](https://mp.weixin.qq.com/s/CKf8JZEKx8HMidkYKRKo_w)|...|
