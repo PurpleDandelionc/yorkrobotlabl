@@ -10,8 +10,8 @@
 |02|[Boot2 整合 JavaMail ,实现异步发送邮件功能](https://mp.weixin.qq.com/s/hadAFqK-w394K4XPWplANw)|[GitHub](https://github.com/cicadasmile/middle-ware-parent/tree/master/ware02-email-send)|
 |03|[Boot2 整合 RocketMQ ,实现请求异步处理](https://mp.weixin.qq.com/s/uF29K8gzv7qHYk-K2pQkpQ)|[GitHub](https://github.com/cicadasmile/middle-ware-parent/tree/master/ware03-rocket-queue)|
 |04|[Boot2 整合 Swagger2 ,构建接口管理界面](https://mp.weixin.qq.com/s/ztmmC3bKlSfUl5Ec3qUPOQ)|[GitHub](https://github.com/cicadasmile/middle-ware-parent/tree/master/ware04-swagger-two)|
-|05|[Boot2 整合 QuartJob ,实现定时器实时管理](https://mp.weixin.qq.com/s/CKf8JZEKx8HMidkYKRKo_w)|...|
-|06|[Boot2 整合 Redis集群 ,实现消息队列场景](https://mp.weixin.qq.com/s/nU6hZY17cO7BF68YyI78Yw)|...|
+|05|[Boot2 整合 QuartJob ,实现定时器实时管理](https://mp.weixin.qq.com/s/CKf8JZEKx8HMidkYKRKo_w)|[GitHub](https://github.com/cicadasmile/middle-ware-parent/tree/master/ware05-quart-job)|
+|06|[Boot2 整合 Redis集群 ,实现消息队列场景](https://mp.weixin.qq.com/s/nU6hZY17cO7BF68YyI78Yw)|[GitHub](https://github.com/cicadasmile/middle-ware-parent/tree/master/ware06-redis-cluster)|
 |07|[Boot2 整合 Dubbo框架 ,实现RPC服务远程调用](https://mp.weixin.qq.com/s/uKvgLpASyJYC9mafO05Uvw)|...|
 |08|[Boot2 整合 ElasticSearch框架,实现高性能搜索引擎](https://mp.weixin.qq.com/s/ZUj4qy7qHgmfYPTdimO-Hw)|...|
 |09|[Boot2 整合 JWT 框架,解决Token跨域验证问题](https://mp.weixin.qq.com/s/CYvsho_kCwUndTuDkDOvOg)|...|
