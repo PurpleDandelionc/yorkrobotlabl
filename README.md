@@ -12,8 +12,8 @@
 |04|[Boot2 整合 Swagger2 ,构建接口管理界面](https://mp.weixin.qq.com/s/ztmmC3bKlSfUl5Ec3qUPOQ)|[GitHub](https://github.com/cicadasmile/middle-ware-parent/tree/master/ware04-swagger-two)|
 |05|[Boot2 整合 QuartJob ,实现定时器实时管理](https://mp.weixin.qq.com/s/CKf8JZEKx8HMidkYKRKo_w)|[GitHub](https://github.com/cicadasmile/middle-ware-parent/tree/master/ware05-quart-job)|
 |06|[Boot2 整合 Redis集群 ,实现消息队列场景](https://mp.weixin.qq.com/s/nU6hZY17cO7BF68YyI78Yw)|[GitHub](https://github.com/cicadasmile/middle-ware-parent/tree/master/ware06-redis-cluster)|
-|07|[Boot2 整合 Dubbo框架 ,实现RPC服务远程调用](https://mp.weixin.qq.com/s/uKvgLpASyJYC9mafO05Uvw)|...|
-|08|[Boot2 整合 ElasticSearch框架,实现高性能搜索引擎](https://mp.weixin.qq.com/s/ZUj4qy7qHgmfYPTdimO-Hw)|...|
+|07|[Boot2 整合 Dubbo框架 ,实现RPC服务远程调用](https://mp.weixin.qq.com/s/uKvgLpASyJYC9mafO05Uvw)|[GitHub](https://github.com/cicadasmile/middle-ware-parent/tree/master/ware07-dubbo-parent)|
+|08|[Boot2 整合 ElasticSearch框架,实现高性能搜索引擎](https://mp.weixin.qq.com/s/ZUj4qy7qHgmfYPTdimO-Hw)|[GitHub](https://github.com/cicadasmile/middle-ware-parent/tree/master/ware08-elastic-search)|
 |09|[Boot2 整合 JWT 框架,解决Token跨域验证问题](https://mp.weixin.qq.com/s/CYvsho_kCwUndTuDkDOvOg)|...|
 |10|[Boot2 整合 FastDFS 中间件，实现文件分布管理](https://mp.weixin.qq.com/s/c9DsOUF545oqD1Hft5DcQw)|...|
 |11|[Boot2 整合 Shiro 框架，实现用户权限管理](https://mp.weixin.qq.com/s/3tyPcvfUzv6BI8KWkLZ53w)|...|
