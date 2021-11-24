@@ -14,9 +14,9 @@
 |06|[Boot2 整合 Redis集群 ,实现消息队列场景](https://mp.weixin.qq.com/s/nU6hZY17cO7BF68YyI78Yw)|[GitHub](https://github.com/cicadasmile/middle-ware-parent/tree/master/ware06-redis-cluster)|
 |07|[Boot2 整合 Dubbo框架 ,实现RPC服务远程调用](https://mp.weixin.qq.com/s/uKvgLpASyJYC9mafO05Uvw)|[GitHub](https://github.com/cicadasmile/middle-ware-parent/tree/master/ware07-dubbo-parent)|
 |08|[Boot2 整合 ElasticSearch框架,实现高性能搜索引擎](https://mp.weixin.qq.com/s/ZUj4qy7qHgmfYPTdimO-Hw)|[GitHub](https://github.com/cicadasmile/middle-ware-parent/tree/master/ware08-elastic-search)|
-|09|[Boot2 整合 JWT 框架,解决Token跨域验证问题](https://mp.weixin.qq.com/s/CYvsho_kCwUndTuDkDOvOg)|...|
-|10|[Boot2 整合 FastDFS 中间件，实现文件分布管理](https://mp.weixin.qq.com/s/c9DsOUF545oqD1Hft5DcQw)|...|
-|11|[Boot2 整合 Shiro 框架，实现用户权限管理](https://mp.weixin.qq.com/s/3tyPcvfUzv6BI8KWkLZ53w)|...|
+|09|[Boot2 整合 JWT 框架,解决Token跨域验证问题](https://mp.weixin.qq.com/s/CYvsho_kCwUndTuDkDOvOg)|[GitHub](https://github.com/cicadasmile/middle-ware-parent/tree/master/ware09-jwt-token)|
+|10|[Boot2 整合 FastDFS 中间件，实现文件分布管理](https://mp.weixin.qq.com/s/c9DsOUF545oqD1Hft5DcQw)|[GitHub](https://github.com/cicadasmile/middle-ware-parent/tree/master/ware10-fast-dfs)|
+|11|[Boot2 整合 Shiro 框架，实现用户权限管理](https://mp.weixin.qq.com/s/3tyPcvfUzv6BI8KWkLZ53w)|[GitHub](https://github.com/cicadasmile/middle-ware-parent/tree/master/ware11-shiro-auth)|
 |12|[Boot2 整合 Security 框架，实现用户权限管理](https://mp.weixin.qq.com/s/7GYddhPSf3C7ZSEqF7OZKw)|...|
 |13|[Boot2 整合 ClickHouse数据库，实现数据高性能查询分析](https://mp.weixin.qq.com/s/KoNVUAe1ttC9AX7JAMqfOA)|...|
 |14|[Boot2 整合 Drools规则引擎，实现高效的业务规则](https://mp.weixin.qq.com/s/fBDv5N-5RxcuWMi6He3p4Q)|...|
