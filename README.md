@@ -17,8 +17,8 @@
 |09|[Boot2 整合 JWT 框架,解决Token跨域验证问题](https://mp.weixin.qq.com/s/CYvsho_kCwUndTuDkDOvOg)|[GitHub](https://github.com/cicadasmile/middle-ware-parent/tree/master/ware09-jwt-token)|
 |10|[Boot2 整合 FastDFS 中间件，实现文件分布管理](https://mp.weixin.qq.com/s/c9DsOUF545oqD1Hft5DcQw)|[GitHub](https://github.com/cicadasmile/middle-ware-parent/tree/master/ware10-fast-dfs)|
 |11|[Boot2 整合 Shiro 框架，实现用户权限管理](https://mp.weixin.qq.com/s/3tyPcvfUzv6BI8KWkLZ53w)|[GitHub](https://github.com/cicadasmile/middle-ware-parent/tree/master/ware11-shiro-auth)|
-|12|[Boot2 整合 Security 框架，实现用户权限管理](https://mp.weixin.qq.com/s/7GYddhPSf3C7ZSEqF7OZKw)|...|
-|13|[Boot2 整合 ClickHouse数据库，实现数据高性能查询分析](https://mp.weixin.qq.com/s/KoNVUAe1ttC9AX7JAMqfOA)|...|
+|12|[Boot2 整合 Security 框架，实现用户权限管理](https://mp.weixin.qq.com/s/7GYddhPSf3C7ZSEqF7OZKw)|[GitHub](https://github.com/cicadasmile/middle-ware-parent/tree/master/ware12-security-auth)|
+|13|[Boot2 整合 ClickHouse数据库，实现数据高性能查询分析](https://mp.weixin.qq.com/s/KoNVUAe1ttC9AX7JAMqfOA)|[GitHub](https://github.com/cicadasmile/middle-ware-parent/tree/master/ware13-click-house)|
 |14|[Boot2 整合 Drools规则引擎，实现高效的业务规则](https://mp.weixin.qq.com/s/fBDv5N-5RxcuWMi6He3p4Q)|...|
 |15|[Boot2 整合 多数据源，配置MybatisPlus增强插件](https://mp.weixin.qq.com/s/B738xzn848_YORt8qT-X5Q)|...|
 |16|[Boot2 整合 Zookeeper组件，管理架构中服务协调](https://mp.weixin.qq.com/s/zjw-A7u-chGZhNgwuUsEPw)|...|
