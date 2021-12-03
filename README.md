@@ -21,8 +21,8 @@
 |13|[Boot2 整合 ClickHouse数据库，实现数据高性能查询分析](https://mp.weixin.qq.com/s/KoNVUAe1ttC9AX7JAMqfOA)|[GitHub](https://github.com/cicadasmile/middle-ware-parent/tree/master/ware13-click-house)|
 |14|[Boot2 整合 Drools规则引擎，实现高效的业务规则](https://mp.weixin.qq.com/s/fBDv5N-5RxcuWMi6He3p4Q)|[GitHub](https://github.com/cicadasmile/middle-ware-parent/tree/master/ware14-drool-rule)|
 |15|[Boot2 整合 多数据源，配置MybatisPlus增强插件](https://mp.weixin.qq.com/s/B738xzn848_YORt8qT-X5Q)|[GitHub](https://github.com/cicadasmile/middle-ware-parent/tree/master/ware15-plus-batis)|
-|16|[Boot2 整合 Zookeeper组件，管理架构中服务协调](https://mp.weixin.qq.com/s/zjw-A7u-chGZhNgwuUsEPw)|...|
-|17|[Boot2 整合Nacos组件，环境搭建和入门案例详解](https://mp.weixin.qq.com/s/jfkEtqFus8v_JXNrRSHYOA)|...|
+|16|[Boot2 整合 Zookeeper组件，管理架构中服务协调](https://mp.weixin.qq.com/s/zjw-A7u-chGZhNgwuUsEPw)|[GitHub](https://github.com/cicadasmile/middle-ware-parent/tree/master/ware16-zoo-keeper)|
+|17|[Boot2 整合Nacos组件，环境搭建和入门案例详解](https://mp.weixin.qq.com/s/jfkEtqFus8v_JXNrRSHYOA)|[GitHub](https://github.com/cicadasmile/middle-ware-parent/tree/master/ware17-regist-nacos)|
 |18|[文件系统(01)：基于Boot2框架，管理Excel和PDF](https://mp.weixin.qq.com/s/YQueOKCmAkVASHKtwz6pgw)|...|
 |18|[文件系统(02)：基于Boot2框架，管理Xml和CSV](https://mp.weixin.qq.com/s/tIHykTG0ey1dwnTwzYwuig)|...|
 |19|[Boot2 整合 Kafka组件，应用案例和流程详解](https://mp.weixin.qq.com/s/XP2LhioxBGk7z_vW1XN2nQ)|...|
