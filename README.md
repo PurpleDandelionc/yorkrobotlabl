@@ -31,8 +31,8 @@
 |17|[Boot2 整合Nacos组件，环境搭建和入门案例详解](https://mp.weixin.qq.com/s/jfkEtqFus8v_JXNrRSHYOA)|[GitHub](https://github.com/cicadasmile/middle-ware-parent/tree/master/ware17-regist-nacos)|
 |18|[文件系统(01)：基于Boot2框架，管理Excel和PDF](https://mp.weixin.qq.com/s/YQueOKCmAkVASHKtwz6pgw)|[GitHub](https://github.com/cicadasmile/middle-ware-parent/tree/master/ware18-file-parent)|
 |18|[文件系统(02)：基于Boot2框架，管理Xml和CSV](https://mp.weixin.qq.com/s/tIHykTG0ey1dwnTwzYwuig)|[GitHub](https://github.com/cicadasmile/middle-ware-parent/tree/master/ware18-file-parent)|
-|19|[Boot2 整合 Kafka组件，应用案例和流程详解](https://mp.weixin.qq.com/s/XP2LhioxBGk7z_vW1XN2nQ)|...|
-|20|[Boot2 整合 ElasticJob框架，定制化管理流程](https://mp.weixin.qq.com/s/eFKq3zKksbwzHZ3d81HaZw)|...|
+|19|[Boot2 整合 Kafka组件，应用案例和流程详解](https://mp.weixin.qq.com/s/XP2LhioxBGk7z_vW1XN2nQ)|[GitHub](https://github.com/cicadasmile/middle-ware-parent/tree/master/ware19-kafka-parent)|
+|20|[Boot2 整合 ElasticJob框架，定制化管理流程](https://mp.weixin.qq.com/s/eFKq3zKksbwzHZ3d81HaZw)|[GitHub](https://github.com/cicadasmile/middle-ware-parent/tree/master/ware20-elastic-job)|
 |21|[Boot2 整合JTA组件，多数据源事务管理](https://mp.weixin.qq.com/s/6zR4JXDnoinzLDUaENWVSA)|...|
 |22|[Boot2 整合FreeMarker模板，完成页面静态化处理](https://mp.weixin.qq.com/s/HwFT_E7v0ms_jQWP7ztZCA)|...|
 |23|[Boot2 整合MinIO中间件，实现文件便捷管理](https://mp.weixin.qq.com/s/93aQawYIT2Ce-9CvkHjQrQ)|...|
