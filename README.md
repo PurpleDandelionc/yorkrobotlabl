@@ -33,8 +33,8 @@
 |18|[文件系统(02)：基于Boot2框架，管理Xml和CSV](https://mp.weixin.qq.com/s/tIHykTG0ey1dwnTwzYwuig)|[GitHub](https://github.com/cicadasmile/middle-ware-parent/tree/master/ware18-file-parent)|
 |19|[Boot2 整合 Kafka组件，应用案例和流程详解](https://mp.weixin.qq.com/s/XP2LhioxBGk7z_vW1XN2nQ)|[GitHub](https://github.com/cicadasmile/middle-ware-parent/tree/master/ware19-kafka-parent)|
 |20|[Boot2 整合 ElasticJob框架，定制化管理流程](https://mp.weixin.qq.com/s/eFKq3zKksbwzHZ3d81HaZw)|[GitHub](https://github.com/cicadasmile/middle-ware-parent/tree/master/ware20-elastic-job)|
-|21|[Boot2 整合JTA组件，多数据源事务管理](https://mp.weixin.qq.com/s/6zR4JXDnoinzLDUaENWVSA)|...|
-|22|[Boot2 整合FreeMarker模板，完成页面静态化处理](https://mp.weixin.qq.com/s/HwFT_E7v0ms_jQWP7ztZCA)|...|
+|21|[Boot2 整合JTA组件，多数据源事务管理](https://mp.weixin.qq.com/s/6zR4JXDnoinzLDUaENWVSA)|[GitHub](https://github.com/cicadasmile/middle-ware-parent/tree/master/ware21-jta-source)|
+|22|[Boot2 整合FreeMarker模板，完成页面静态化处理](https://mp.weixin.qq.com/s/HwFT_E7v0ms_jQWP7ztZCA)|[GitHub](https://github.com/cicadasmile/middle-ware-parent/tree/master/ware22-page-static)|
 |23|[Boot2 整合MinIO中间件，实现文件便捷管理](https://mp.weixin.qq.com/s/93aQawYIT2Ce-9CvkHjQrQ)|...|
 |24|[Boot2 整合Ehcache组件，轻量级缓存管理](https://mp.weixin.qq.com/s/4DxEMZURjRyszzCuhI9SGw)|...|
 |25|[Boot2 集成日志，复杂业务下的自定义实现](https://mp.weixin.qq.com/s/Cnieu8n-wkTyGbUd0WxG6g)|...|
