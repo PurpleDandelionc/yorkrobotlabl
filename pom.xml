@@ -73,8 +73,8 @@
         <module>ware26-oauth2-parent</module>
         <!-- Test多种方式集成 -->
         <module>ware27-test-junit</module>
-        <!-- 参数校验，入参出参
-        <module>ware28-param-check</module>-->
+        <!-- 参数校验，入参出参 -->
+        <module>ware28-param-check</module>
     </modules>
 
     <!-- 依赖版本管理 -->
