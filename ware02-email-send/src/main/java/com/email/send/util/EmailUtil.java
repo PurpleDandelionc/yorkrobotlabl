@@ -19,10 +19,6 @@ import java.util.Properties;
  */
 public class EmailUtil {
 
-    public static void main(String[] args) throws Exception {
-        sendEmail01("dzyaly@aliyun.com","复杂邮件","自定义图片：<img src='cid:gzh.jpg'/>,网络图片：<img src='http://pic37.nipic.com/20140113/8800276_184927469000_2.png'/>") ;
-    }
-
     /**
      * 邮箱发送模式01：纯文本格式
      */
